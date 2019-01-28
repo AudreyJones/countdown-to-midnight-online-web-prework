@@ -7,5 +7,5 @@ def countdown(count)
       break
     end
   end
-
+  puts "HAPPY NEW YEAR!"
 end
